@@ -6,7 +6,7 @@ const data = {
             image: './images/p1.jpg',
             price: 150,
             brand: 'Nike',
-            rating: 4.5,
+            rating: 0.5,
             numReviews: 15,
             description: 'high quality product'
         }, 
@@ -16,7 +16,7 @@ const data = {
             image: './images/p2.jpg',
             price: 120,
             brand: 'Adidas',
-            rating: 4.5,
+            rating: 1.5,
             numReviews: 50,
             description: 'high quality product'
         }, 
@@ -26,7 +26,7 @@ const data = {
             image: './images/p3.jpg',
             price: 100,
             brand: 'qcyo',
-            rating: 4.5,
+            rating: 2.5,
             numReviews: 40,
             description: 'high quality product'
         }, 
@@ -36,7 +36,7 @@ const data = {
             image: './images/p4.jpg',
             price: 220,
             brand: 'Boca',
-            rating: 4.5,
+            rating: 3.5,
             numReviews: 850,
             description: 'high quality product'
         }, 
@@ -56,7 +56,7 @@ const data = {
             image: './images/p6.jpg',
             price: 1200,
             brand: 'd10s',
-            rating: 4.5,
+            rating: 5,
             numReviews: 1000,
             description: 'high quality product'
         }, 
