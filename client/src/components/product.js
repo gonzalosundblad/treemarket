@@ -14,7 +14,6 @@ export default function Product ({product}) {
                     </a>
                     <div className="price">{'$' + product.price}</div>
                     <Rating rating={product.rating} numReviews={product.numReviews}> </Rating>
-                    <div className="price">{product.description}</div>
                   </div>
                 </div>
         
